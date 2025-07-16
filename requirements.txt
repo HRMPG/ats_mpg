@@ -1,0 +1,5 @@
+
+streamlit
+docx2txt
+pymupdf
+pandas
